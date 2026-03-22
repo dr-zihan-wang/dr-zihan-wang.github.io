@@ -8,14 +8,14 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-selected_papers: true
+selected_papers: false
 social: true
 announcements:
-  enabled: true
+  enabled: false
   scrollable: true
   limit: 5
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true
   limit: 3
 ---
