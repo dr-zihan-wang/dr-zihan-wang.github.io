@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
 subtitle: <a href='#'> Welcome to my website!</a>.
 
