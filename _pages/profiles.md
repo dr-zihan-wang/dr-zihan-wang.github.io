@@ -1,10 +1,11 @@
----
+<img width="251" height="496" alt="image" src="https://github.com/user-attachments/assets/d68833a3-eb26-4e91-aa10-8a4eb6718f6f" />---
 layout: profiles
 permalink: /people/
 title: people
 description: members of the lab or group
-nav: true
+nav: false
 nav_order: 7
+
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
