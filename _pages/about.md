@@ -24,18 +24,12 @@ latest_posts:
 
 <h3><a href="#" style="color: #4a9eda; font-weight: bold; text-decoration: none;">About Me</a></h3>
 
-Welcome! I am a Postdoctoral Research Fellow at the Science Policy Research Unit (SPRU), University of Sussex Business School.
+<p>Welcome! I am a Postdoctoral Research Fellow at the Science Policy Research Unit (SPRU), University of Sussex Business School.</p>
 
-<br>
+<p>Research interests: skills and labour markets, regional innovation and development, place-based policy, and informal institutions.</p>
 
-Research interests: skills and labour markets, regional innovation and development, place-based policy, and informal institutions.
+<p>Before joining the University of Sussex Business School in 2025, I received my PhD in Management from the School of Management, University of Bath, an M.Sc. in Finance from the School of Economics, Fudan University, and a B.Sc. in Economics from the School of Economics and Management, Wuhan University.</p>
 
-<br>
-
-Before joining the University of Sussex Business School in 2025, I received my PhD in Management from the School of Management, University of Bath, an M.Sc. in Finance from the School of Economics, Fudan University, and a B.Sc. in Economics from the School of Economics and Management, Wuhan University.
-
-<br>
-
-Have we met? Happy to connect!
+<p>Have we met? Happy to connect!</p>
 
 </div>
