@@ -30,9 +30,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-teaching",
-          title: "Teaching",
-          description: "Course materials, schedules, and resources for classes taught.",
+        },{id: "nav-my-teaching",
+          title: "My Teaching",
+          description: "I have delivered lectures and seminars in Business Economics, International Business, and Innovation Policy across institutions in the UK and China.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
