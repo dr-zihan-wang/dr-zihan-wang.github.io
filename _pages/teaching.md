@@ -14,7 +14,7 @@ calendar: false
 
 <ol class="bibliography">
 <li>
-<div class="title">Artificial Intelligence & Global Digital Policies (PG 1st Year)</div>
+<div class="title"><em>Artificial Intelligence & Global Digital Policies</em> (PG 1st Year)</div>
 <div class="author">SPRU, University of Sussex Business School, 2026</div>
 </li>
 </ol>
@@ -23,15 +23,15 @@ calendar: false
 
 <ol class="bibliography">
 <li>
-<div class="title">Quantitative Research Methods (PG 1st Year)</div>
+<div class="title"><em>Quantitative Research Methods</em> (PG 1st Year)</div>
 <div class="author">University of Bath School of Management, 2024</div>
 </li>
 <li>
-<div class="title">Business in Emerging Markets (UG 2nd Year)</div>
+<div class="title"><em>Business in Emerging Markets</em> (UG 2nd Year)</div>
 <div class="author">University of Bath School of Management, 2022</div>
 </li>
 <li>
-<div class="title">International Business (UG 1st Year)</div>
+<div class="title"><em>International Business</em> (UG 1st Year)</div>
 <div class="author">University of Bath School of Management, 2022</div>
 </li>
 </ol>
@@ -40,11 +40,11 @@ calendar: false
 
 <ol class="bibliography">
 <li>
-<div class="title">Macroeconomics (UG 2nd Year)</div>
+<div class="title"><em>Macroeconomics</em> (UG 2nd Year)</div>
 <div class="author">University of Bath School of Management, 2024-2025</div>
 </li>
 <li>
-<div class="title">Introductory Economics (UG 1st Year)</div>
+<div class="title"><em>Introductory Economics</em> (UG 1st Year)</div>
 <div class="author">University of Bath School of Management, 2023-2025</div>
 </li>
 </ol>
@@ -53,11 +53,11 @@ calendar: false
 
 <ol class="bibliography">
 <li>
-<div class="title">International Economics (PG 1st Year)</div>
+<div class="title"><em>International Economics</em> (PG 1st Year)</div>
 <div class="author">Fudan University, School of Economics, 2018</div>
 </li>
 <li>
-<div class="title">Economics and Economic Policy (PG 1st Year)</div>
+<div class="title"><em>Economics and Economic Policy</em> (PG 1st Year)</div>
 <div class="author">Fudan University, School of Economics, 2018</div>
 </li>
 </ol>
