@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-a-post-with-plotly-js",
+        },{id: "post-what-uk-job-postings-reveal-about-the-changing-demand-for-creativity-skills-in-the-age-of-generative-ai",
+        
+          title: 'What UK Job Postings Reveal About the Changing Demand for Creativity Skills in... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "We explore Generative AI and the shift in labour market skill requirements.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://pec.ac.uk/blog_entries/what-uk-job-postings-reveal-about-the-changing-demand-for-creativity-skills-in-the-age-of-generative-ai/", "_blank");
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
