@@ -8,22 +8,58 @@ nav_order: 6
 calendar: false
 ---
 
+<div class="publications">
+
 <h3 style="color: #4a9eda; font-weight: bold; margin-top: 2rem;">Lectures taught at University of Sussex Business School</h3>
 
-- Artificial Intelligence & Global Digital Policies (PG 1st Year), SPRU, 2026
+<ol class="bibliography">
+<li>
+<div class="title">Artificial Intelligence & Global Digital Policies (PG 1st Year)</div>
+<div class="author">SPRU, University of Sussex Business School, 2026</div>
+</li>
+</ol>
 
 <h3 style="color: #4a9eda; font-weight: bold; margin-top: 2rem;">Lectures taught at University of Bath School of Management</h3>
 
-- Quantitative Research Methods (PG 1st Year), 2024
-- Business in Emerging Markets (UG 2nd Year), 2022
-- International Business (UG 1st Year), 2022
+<ol class="bibliography">
+<li>
+<div class="title">Quantitative Research Methods (PG 1st Year)</div>
+<div class="author">University of Bath School of Management, 2024</div>
+</li>
+<li>
+<div class="title">Business in Emerging Markets (UG 2nd Year)</div>
+<div class="author">University of Bath School of Management, 2022</div>
+</li>
+<li>
+<div class="title">International Business (UG 1st Year)</div>
+<div class="author">University of Bath School of Management, 2022</div>
+</li>
+</ol>
 
 <h3 style="color: #4a9eda; font-weight: bold; margin-top: 2rem;">Seminars taught at University of Bath School of Management</h3>
 
-- Macroeconomics (UG 2nd Year), 2024-2025
-- Introductory Economics (UG 1st Year), 2023-2025
+<ol class="bibliography">
+<li>
+<div class="title">Macroeconomics (UG 2nd Year)</div>
+<div class="author">University of Bath School of Management, 2024-2025</div>
+</li>
+<li>
+<div class="title">Introductory Economics (UG 1st Year)</div>
+<div class="author">University of Bath School of Management, 2023-2025</div>
+</li>
+</ol>
 
 <h3 style="color: #4a9eda; font-weight: bold; margin-top: 2rem;">Seminars taught at Fudan University, School of Economics</h3>
 
-- International Economics (PG 1st Year), 2018
-- Economics and Economic Policy (PG 1st Year), 2018
+<ol class="bibliography">
+<li>
+<div class="title">International Economics (PG 1st Year)</div>
+<div class="author">Fudan University, School of Economics, 2018</div>
+</li>
+<li>
+<div class="title">Economics and Economic Policy (PG 1st Year)</div>
+<div class="author">Fudan University, School of Economics, 2018</div>
+</li>
+</ol>
+
+</div>
