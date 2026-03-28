@@ -10,6 +10,8 @@ calendar: false
 
 <div class="publications">
 
+<hr>
+
 <h3 style="color: #4a9eda; font-weight: bold; margin-top: 2rem;">Lectures taught at University of Sussex Business School</h3>
 
 <ol class="bibliography">
@@ -18,6 +20,8 @@ calendar: false
 <div class="author">SPRU, University of Sussex Business School, 2026</div>
 </li>
 </ol>
+
+<hr>
 
 <h3 style="color: #4a9eda; font-weight: bold; margin-top: 2rem;">Lectures taught at University of Bath School of Management</h3>
 
@@ -36,6 +40,8 @@ calendar: false
 </li>
 </ol>
 
+<hr>
+
 <h3 style="color: #4a9eda; font-weight: bold; margin-top: 2rem;">Seminars taught at University of Bath School of Management</h3>
 
 <ol class="bibliography">
@@ -48,6 +54,8 @@ calendar: false
 <div class="author">University of Bath School of Management, 2023-2025</div>
 </li>
 </ol>
+
+<hr>
 
 <h3 style="color: #4a9eda; font-weight: bold; margin-top: 2rem;">Seminars taught at Fudan University, School of Economics</h3>
 
