@@ -16,7 +16,7 @@ calendar: false
 
 <ul class="bibliography">
 <li>
-<div class="title">&bull; <em>Artificial Intelligence & Global Digital Policies</em> (PG 1st Year)</div>
+<div class="title"><em>Artificial Intelligence & Global Digital Policies</em> (PG 1st Year)</div>
 <div class="author">SPRU, University of Sussex Business School, 2026</div>
 </li>
 </ul>
@@ -27,15 +27,15 @@ calendar: false
 
 <ul class="bibliography">
 <li>
-<div class="title">&bull; <em>Quantitative Research Methods</em> (PG 1st Year)</div>
+<div class="title"><em>Quantitative Research Methods</em> (PG 1st Year)</div>
 <div class="author">University of Bath School of Management, 2024</div>
 </li>
 <li>
-<div class="title">&bull; <em>Business in Emerging Markets</em> (UG 2nd Year)</div>
+<div class="title"><em>Business in Emerging Markets</em> (UG 2nd Year)</div>
 <div class="author">University of Bath School of Management, 2022</div>
 </li>
 <li>
-<div class="title">&bull; <em>International Business</em> (UG 1st Year)</div>
+<div class="title"><em>International Business</em> (UG 1st Year)</div>
 <div class="author">University of Bath School of Management, 2022</div>
 </li>
 </ul>
@@ -46,11 +46,11 @@ calendar: false
 
 <ul class="bibliography">
 <li>
-<div class="title">&bull; <em>Macroeconomics</em> (UG 2nd Year)</div>
+<div class="title"><em>Macroeconomics</em> (UG 2nd Year)</div>
 <div class="author">University of Bath School of Management, 2024-2025</div>
 </li>
 <li>
-<div class="title">&bull; <em>Introductory Economics</em> (UG 1st Year)</div>
+<div class="title"><em>Introductory Economics</em> (UG 1st Year)</div>
 <div class="author">University of Bath School of Management, 2023-2025</div>
 </li>
 </ul>
@@ -61,11 +61,11 @@ calendar: false
 
 <ul class="bibliography">
 <li>
-<div class="title">&bull; <em>International Economics</em> (PG 1st Year)</div>
+<div class="title"><em>International Economics</em> (PG 1st Year)</div>
 <div class="author">Fudan University, School of Economics, 2018</div>
 </li>
 <li>
-<div class="title">&bull; <em>Economics and Economic Policy</em> (PG 1st Year)</div>
+<div class="title"><em>Economics and Economic Policy</em> (PG 1st Year)</div>
 <div class="author">Fudan University, School of Economics, 2018</div>
 </li>
 </ul>
