@@ -57,7 +57,7 @@ calendar: false
 
 <hr>
 
-<h3 style="color: #4a9eda; font-weight: bold; margin-top: 2rem;">Seminars taught at Fudan University, School of Economics</h3>
+<h3 style="color: #4a9eda; font-weight: bold; margin-top: 2rem;">Seminars taught at Fudan University School of Economics</h3>
 
 <ol class="bibliography">
 <li>

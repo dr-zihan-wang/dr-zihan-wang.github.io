@@ -20,7 +20,7 @@ latest_posts:
   limit: 3
 ---
 
-<div style="margin-left: 4rem;">
+<div>
 
 <h3><a href="#" style="color: #4a9eda; font-weight: bold; text-decoration: none;">About Me</a></h3>
 
