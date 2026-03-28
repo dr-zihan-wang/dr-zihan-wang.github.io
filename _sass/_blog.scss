@@ -50,6 +50,12 @@
     padding-top: 2rem;
     padding-bottom: 2rem;
 
+    h3 {
+      font-size: 1rem;
+      font-weight: bolder;
+      margin-bottom: 0.25rem;
+    }
+
     .post-meta {
       color: var(--global-text-color-light);
       font-size: 0.875rem;

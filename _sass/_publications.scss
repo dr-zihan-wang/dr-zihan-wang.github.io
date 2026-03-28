@@ -23,6 +23,10 @@
     }
   }
 
+  h3 {
+    font-size: 1.25rem;
+  }
+
   h2.bibliography {
     color: var(--global-divider-color);
     border-top: 1px solid var(--global-divider-color);
@@ -68,10 +72,17 @@
       }
 
       .title {
+        font-size: 1rem;
         font-weight: bolder;
       }
 
+      .periodical {
+        font-size: 0.875rem;
+      }
+
       .author {
+        font-size: 0.875rem;
+
         a {
           border-bottom: 1px dashed var(--global-theme-color);
 
