@@ -262,6 +262,13 @@
       {% if entry.website %}
         <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
       {% endif %}
+      {% if entry.video_abstract %}
+        {% if entry.video_abstract contains '://' %}
+          <a href="{{ entry.video_abstract }}" class="btn btn-sm z-depth-0" role="button">Video Abstract</a>
+        {% else %}
+          <a href="{{ entry.video_abstract | prepend: '/assets/video/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Video Abstract</a>
+        {% endif %}
+      {% endif %}
       {% if entry.commentary %}
         <a href="{{ entry.commentary }}" class="btn btn-sm z-depth-0" role="button">{% if entry.commentary_label %}{{ entry.commentary_label }}{% else %}Commentary{% endif %}</a>
       {% endif %}
