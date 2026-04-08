@@ -2,7 +2,7 @@
 layout: post
 title: "Coworking Spaces as Vehicles for Place-based Skill Development in Left-behind Regions"
 date: 2026-04-08 00:00:00
-description: We examine how coworking spaces can support skill development in economically left-behind regions.
+description: We examine how coworking spaces can support skill development in left-behind regions.
 redirect: https://regions.regionalstudies.org/ezine/article/issue-24-coworking-spaces-left-behind-regions/
 ---
 
