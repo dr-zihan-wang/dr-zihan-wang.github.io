@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-what-uk-job-postings-reveal-about-the-changing-demand-for-creativity-skills-in-the-age-of-generative-ai",
+        },{id: "post-coworking-spaces-as-vehicles-for-place-based-skill-development-in-left-behind-regions",
+        
+          title: 'Coworking Spaces as Vehicles for Place-based Skill Development in Left-behind Regions <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "We examine how coworking spaces can support skill development in economically left-behind regions.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://regions.regionalstudies.org/ezine/article/issue-24-coworking-spaces-left-behind-regions/", "_blank");
+          
+        },
+      },{id: "post-what-uk-job-postings-reveal-about-the-changing-demand-for-creativity-skills-in-the-age-of-generative-ai",
         
           title: 'What UK Job Postings Reveal About the Changing Demand for Creativity Skills in... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
