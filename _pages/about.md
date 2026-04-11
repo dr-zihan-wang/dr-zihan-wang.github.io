@@ -24,7 +24,7 @@ latest_posts:
 
 <h3><a href="#" style="color: #4a9eda; font-weight: bold; text-decoration: none;">About Me</a></h3>
 
-<p>Welcome! I am a Postdoctoral Research Fellow at the Science Policy Research Unit (SPRU), University of Sussex Business School.</p>
+<p>Welcome! I am Dr Zihan Wang (王梓涵), I am currently a Postdoctoral Research Fellow at the Science Policy Research Unit (SPRU), University of Sussex Business School.</p>
 
 <p>My research interests lie in skills and labour markets, regional innovation and development, place-based policy, and informal institutions.</p>
 
