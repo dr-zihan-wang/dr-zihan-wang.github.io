@@ -43,7 +43,6 @@ latest_posts:
 <h3><a href="#" style="color: #4a9eda; font-weight: bold; text-decoration: none;">Upcoming Conferences</a></h3>
 
 <ul>
-<li>28–29 Apr 2026: Creative PEC Research Symposium, University of Newcastle, UK</li>
 <li>15–18 Jun 2026: RSA Annual Conference 2026, University of Gothenburg, Sweden</li>
 </ul>
 
