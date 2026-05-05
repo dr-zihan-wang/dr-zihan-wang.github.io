@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-coworking-spaces-as-informal-skill-ecosystems-for-the-creative-workforce",
+        },{id: "post-thinking-of-joining-a-co-working-space-here-are-four-ways-to-make-the-most-of-it",
+        
+          title: 'Thinking of joining a co‑working space? Here are four ways to make the... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "I share four practical tips on how to choose the right coworking space and make the most of what it has to offer.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://theconversation.com/thinking-of-joining-a-co-working-space-here-are-four-ways-to-make-the-most-of-it-281286", "_blank");
+          
+        },
+      },{id: "post-coworking-spaces-as-informal-skill-ecosystems-for-the-creative-workforce",
         
           title: 'Coworking spaces as informal skill ecosystems for the creative workforce <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
