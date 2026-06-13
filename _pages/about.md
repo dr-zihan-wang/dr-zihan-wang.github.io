@@ -24,7 +24,7 @@ latest_posts:
 
 <h3><a href="#" style="color: #4a9eda; font-weight: bold; text-decoration: none;">About Me</a></h3>
 
-<p>Welcome! I am Dr Zihan Wang (王梓涵), I am a Postdoctoral Research Fellow at the Science Policy Research Unit (SPRU), University of Sussex Business School, and the AHRC Creative Industries Policy and Evidence Centre (PEC). I am also a Visiting Researcher at the Centre for Governance, Regulation and Industrial Strategy, University of Bath, where I completed my PhD in July 2025.</p>
+<p>Welcome! I am Dr Zihan Wang (王梓涵), I am a Postdoctoral Research Fellow at the Science Policy Research Unit (SPRU), University of Sussex Business School, and the AHRC Creative Industries Policy and Evidence Centre (PEC). I am also a Visiting Researcher at the Centre for Governance, Regulation and Industrial Strategy, University of Bath.</p>
 
 <p>My research sits at the intersection of evolutionary economic geography, innovation studies, and the future of work, developing along three interconnected strands:</p>
 
