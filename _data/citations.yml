@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-01'
+  last_updated: '2026-06-29'
 papers:
   MVWU9KwAAAAJ:2osOgNQ5qMEC:
     citations: 1
@@ -29,3 +29,7 @@ papers:
     citations: 6
     title: 'The Interaction among Country Risk, Export and OFDI: Evidence from China and B&R Countries'
     year: '2018'
+  MVWU9KwAAAAJ:zYLM7Y9cAGgC:
+    citations: 0
+    title: 'Skill relatedness: A dynamic approach to regional diversification in the UK'
+    year: '2026'
