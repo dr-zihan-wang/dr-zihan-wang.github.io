@@ -24,7 +24,7 @@ latest_posts:
 
 <h3><a href="#" style="color: #4a9eda; font-weight: bold; text-decoration: none;">About Me</a></h3>
 
-<p>Welcome! I am Dr Zihan Wang (王梓涵), I am a Postdoctoral Research Fellow at the Science Policy Research Unit (SPRU), University of Sussex Business School, and the AHRC Creative Industries Policy and Evidence Centre (PEC). I am also a Visiting Researcher at the Centre for Governance, Regulation and Industrial Strategy, University of Bath.</p>
+<p>Welcome! I am Dr Zihan Wang (王梓涵), I am a Postdoctoral Research Fellow at the Science Policy Research Unit (SPRU), University of Sussex Business School, and the AHRC Creative Industries Policy and Evidence Centre (PEC). I am also a Visiting Researcher at the Centre for Governance, Regions and Industrial Strategy, University of Bath.</p>
 
 <p>My research sits at the intersection of evolutionary economic geography, innovation studies, and the future of work, developing along three interconnected strands:</p>
 
@@ -36,9 +36,9 @@ latest_posts:
 
 <p>A central aim across these strands is to bridge academic research and policy practice by generating evidence that informs place-based policymaking and supports more inclusive and balanced regional development.</p>
 
-<p>Methodologically, my research is primarily quantitative, using large-scale datasets including online job postings, LinkedIn employment histories, and survey data. I am also keen to further develop mixed-method and qualitative approaches.</p>
+<p>Methodologically, my research is primarily quantitative, using large-scale datasets including online job postings, LinkedIn employment histories, BACS transactions (bank transfers), and survey data. I am also keen to further develop mixed-method and qualitative approaches.</p>
 
-<p>Before joining the University of Sussex Business School in 2025, I completed my PhD in Management at the School of Management, University of Bath (2022–2025). I also hold an MSc in Finance from Fudan University (2018–2020), a BSc in Economics (2014–2018), and a BA in Modern Languages from Wuhan University (2015–2018).</p>
+<p>Before joining the University of Sussex Business School in 2025, I completed my PhD in Economic Geography at the School of Management, University of Bath (2022–2025). I also hold an MSc in Finance from Fudan University (2018–2020), a BSc in Economics (2014–2018), and a BA in Modern Languages from Wuhan University (2015–2018).</p>
 
 <p>Prior to academia, I gained two years of industry experience as a Senior Consulting Analyst at Accenture (2020–2022).</p>
 
